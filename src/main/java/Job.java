@@ -15,13 +15,13 @@ public class Job {
         jobArray.add(this);
     }
 
+    public String getValue() {
+        return jobName;
+    }
 
     public static ArrayList<Job> getAll() {
         return jobArray;
     }
-
-
-
 
 
     public String getJobName() {
