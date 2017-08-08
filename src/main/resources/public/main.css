@@ -1,0 +1,12 @@
+body {
+    background-image: url("../images/fountain.jpg");
+    background-repeat: no repeat;
+    }
+
+p, ul {
+    color: white;
+    }
+
+h1 {
+    color: red;
+    }
